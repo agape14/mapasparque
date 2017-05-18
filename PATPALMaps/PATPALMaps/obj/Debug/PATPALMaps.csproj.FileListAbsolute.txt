@@ -1,0 +1,149 @@
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps\bin\Debug\PATPALMaps.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps\bin\Debug\PATPALMaps.pdb
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.Abstractions.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Core.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Maps.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Platform.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.pdb
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.xml
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.Abstractions.xml
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Core.pdb
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Core.xml
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Maps.xml
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Platform.pdb
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.csprojResolveAssemblyReference.cache
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.MainPage.xaml.g.cs
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.App.xaml.g.cs
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.pdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps\bin\Debug\PATPALMaps.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps\bin\Debug\PATPALMaps.pdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.Abstractions.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Core.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Maps.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Platform.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.pdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.xml
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.Abstractions.xml
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Core.pdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Core.xml
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Maps.xml
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Platform.pdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.csprojResolveAssemblyReference.cache
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.MainPage.xaml.g.cs
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.App.xaml.g.cs
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.pdb
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps\bin\Debug\PATPALMaps.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.Abstractions.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Core.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Maps.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Platform.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.pdb
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.xml
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.Abstractions.xml
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Core.pdb
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Core.xml
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Maps.xml
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Platform.pdb
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.MainPage.xaml.g.cs
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.App.xaml.g.cs
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.MasterPage.xaml.g.cs
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.MasterPageMaster.xaml.g.cs
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.MasterPageDetail.xaml.g.cs
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.MenuPage.xaml.g.cs
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.pdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\PATPALMaps.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\PATPALMaps.pdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.Abstractions.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Core.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Maps.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.pdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.xml
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.Abstractions.xml
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Core.xml
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Maps.xml
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.MainPage.xaml.g.cs
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.App.xaml.g.cs
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.MasterPage.xaml.g.cs
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.MenuPage.xaml.g.cs
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.MapsPage.xaml.g.cs
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.pdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\PATPALMaps.dll.mdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\PATPALMaps.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\PATPALMaps.pdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.Abstractions.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Core.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Maps.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Platform.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.pdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.xml
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.Abstractions.xml
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Core.pdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Core.xml
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Maps.xml
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Platform.pdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.csprojResolveAssemblyReference.cache
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.MainPage.xaml.g.cs
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.App.xaml.g.cs
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.MasterPage.xaml.g.cs
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.MenuPage.xaml.g.cs
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.MapsPage.xaml.g.cs
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.pdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps\bin\Debug\PATPALMaps.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps\bin\Debug\PATPALMaps.pdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.Abstractions.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Core.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Maps.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Platform.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.pdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.xml
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps\bin\Debug\Plugin.Geolocator.Abstractions.xml
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Core.pdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Core.xml
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Maps.xml
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Platform.pdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.MainPage.xaml.g.cs
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.App.xaml.g.cs
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.MasterPage.xaml.g.cs
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.MenuPage.xaml.g.cs
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.MapsPage.xaml.g.cs
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps\obj\Debug\PATPALMaps.pdb

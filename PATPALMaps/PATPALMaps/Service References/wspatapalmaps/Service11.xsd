@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://192.168.2.90/WSERVICES/Service1.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/WSERVICE" />
+  <xs:element name="getValidarUsuario">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="CODI_USUARIO" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CLAV_USUARIO" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getValidarUsuarioResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/WSERVICE" minOccurs="0" name="getValidarUsuarioResult" nillable="true" type="q1:ValidarUsuario" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getListarDataPapeleta">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="CODI_JEFE" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CODI_AREA" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CENTRO_COSTO" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CODI_PERIODO" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CODI_PAPELETA" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CODI_ESTADO" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getListarDataPapeletaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/WSERVICE" minOccurs="0" name="getListarDataPapeletaResult" nillable="true" type="q2:ArrayOfListarDataPapeleta" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setCambiarEstadoPapeleta">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="CODI_PERIODO" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CODI_PAPELETA" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CODI_ESTADO" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CODI_JEFE" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setCambiarEstadoPapeletaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="setCambiarEstadoPapeletaResult" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getListarBusquedaDocumentos">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="CODI_AREA" type="xs:int" />
+        <xs:element minOccurs="0" name="CODI_ESTADO" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="FECHA_INICIO" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="FECHA_FIN" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CODI_REGISTRO" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CODI_DOCUMENTO" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getListarBusquedaDocumentosResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/WSERVICE" minOccurs="0" name="getListarBusquedaDocumentosResult" nillable="true" type="q3:ArrayOfListarBusquedaDocumentos" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getListarCodigoRelacionado">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="ID_UNICO" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getListarCodigoRelacionadoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/WSERVICE" minOccurs="0" name="getListarCodigoRelacionadoResult" nillable="true" type="q4:ListarCodigoRelacionado" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getListarAccionesDocumento">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="ID_UNICO" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getListarAccionesDocumentoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/WSERVICE" minOccurs="0" name="getListarAccionesDocumentoResult" nillable="true" type="q5:ArrayOfListarAccionesDocumento" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getListarHistoriaDocumento">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="ID_DOCUMENTO" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getListarHistoriaDocumentoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q6="http://schemas.datacontract.org/2004/07/WSERVICE" minOccurs="0" name="getListarHistoriaDocumentoResult" nillable="true" type="q6:ArrayOfListarHistoriaDocumento" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getListarPeriodos">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getListarPeriodosResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q7="http://schemas.datacontract.org/2004/07/WSERVICE" minOccurs="0" name="getListarPeriodosResult" nillable="true" type="q7:ArrayOfListarPeriodos" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getListarUnidadesGerencia">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="CODI_JEFE" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CODI_AREA" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CENTRO_COSTO" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getListarUnidadesGerenciaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q8="http://schemas.datacontract.org/2004/07/WSERVICE" minOccurs="0" name="getListarUnidadesGerenciaResult" nillable="true" type="q8:ArrayOfListarUnidadesGerencia" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getListarZona">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getListarZonaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q9="http://schemas.datacontract.org/2004/07/WSERVICE" minOccurs="0" name="getListarZonaResult" nillable="true" type="q9:ArrayOfListarZona" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getListarPines">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="iIdClasificacion" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="vTitulo" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getListarPinesResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q10="http://schemas.datacontract.org/2004/07/WSERVICE" minOccurs="0" name="getListarPinesResult" nillable="true" type="q10:ArrayOfListarPines" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getListarClasificaciones">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getListarClasificacionesResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q11="http://schemas.datacontract.org/2004/07/WSERVICE" minOccurs="0" name="getListarClasificacionesResult" nillable="true" type="q11:ArrayOfListarClasificaciones" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getListarMacs">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getListarMacsResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q12="http://schemas.datacontract.org/2004/07/WSERVICE" minOccurs="0" name="getListarMacsResult" nillable="true" type="q12:ArrayOfListarMacs" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setMantenimientoPines">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="iIdPin" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="vTitulo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="vDescripcion" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="vLongitud" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="vLatitud" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="vIcono" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="bEstado" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="iIdZona" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="iIdClasificacion" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setMantenimientoPinesResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="setMantenimientoPinesResult" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

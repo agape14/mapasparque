@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/WSERVICE" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/WSERVICE" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ValidarUsuario">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CENT_COSTO" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CODI_AREA" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CODI_ESTADO" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CODI_JEFE" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CODI_OFICINA" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CODI_PERIODO" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CODI_ROL" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CODI_USUARIO" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DESC_AREADET" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ERROR" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FECHAHORA" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FECH_VIGENCIA" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NOMB_ROL" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NOMB_USUARIO" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ValidarUsuario" nillable="true" type="tns:ValidarUsuario" />
+  <xs:complexType name="ArrayOfListarDataPapeleta">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ListarDataPapeleta" nillable="true" type="tns:ListarDataPapeleta" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfListarDataPapeleta" nillable="true" type="tns:ArrayOfListarDataPapeleta" />
+  <xs:complexType name="ListarDataPapeleta">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CENT_COSTO" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CODI_ESTADO" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CODI_JEFE" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CODI_PAPELETA" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DESC_AREA" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DESC_CATEGORIA" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DESC_COLOR" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DESC_DOCIDEN" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DESC_MOTIVO" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FECH_PAPELETA" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="HORA_FIN" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="HORA_INI" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="SOLICITANTE" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ListarDataPapeleta" nillable="true" type="tns:ListarDataPapeleta" />
+  <xs:complexType name="ArrayOfListarBusquedaDocumentos">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ListarBusquedaDocumentos" nillable="true" type="tns:ListarBusquedaDocumentos" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfListarBusquedaDocumentos" nillable="true" type="tns:ArrayOfListarBusquedaDocumentos" />
+  <xs:complexType name="ListarBusquedaDocumentos">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CODI_REGISTRO" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="COLOR" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DESC_ASUNTO" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DESTINO" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DOCUMENTO" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FECHA_REGISTRO" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FECH_DOCUMENTO" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FECH_REGISTRO" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ICON" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ID_UNICO" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ORIGEN" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PERSONAL_DESTINO" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PERSONAL_ORIGEN" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="VISUALIZACION" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ListarBusquedaDocumentos" nillable="true" type="tns:ListarBusquedaDocumentos" />
+  <xs:complexType name="ListarCodigoRelacionado">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ID_DOCUMENTO" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ListarCodigoRelacionado" nillable="true" type="tns:ListarCodigoRelacionado" />
+  <xs:complexType name="ArrayOfListarAccionesDocumento">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ListarAccionesDocumento" nillable="true" type="tns:ListarAccionesDocumento" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfListarAccionesDocumento" nillable="true" type="tns:ArrayOfListarAccionesDocumento" />
+  <xs:complexType name="ListarAccionesDocumento">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="DESC_ACCIONES" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ListarAccionesDocumento" nillable="true" type="tns:ListarAccionesDocumento" />
+  <xs:complexType name="ArrayOfListarHistoriaDocumento">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ListarHistoriaDocumento" nillable="true" type="tns:ListarHistoriaDocumento" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfListarHistoriaDocumento" nillable="true" type="tns:ArrayOfListarHistoriaDocumento" />
+  <xs:complexType name="ListarHistoriaDocumento">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ACCIONES" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ASUNTO" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CLASE" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CODI_REGISTRO" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="COLOR" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DESTINO" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DOCUMENTO" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FECH_RECEPCION" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ICON" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ID_UNICO" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="MENSAJE" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ORIGEN" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PERSONAL_DESTINO" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PERSONAL_ORIGEN" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="REFERENCIA" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ListarHistoriaDocumento" nillable="true" type="tns:ListarHistoriaDocumento" />
+  <xs:complexType name="ArrayOfListarPeriodos">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ListarPeriodos" nillable="true" type="tns:ListarPeriodos" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfListarPeriodos" nillable="true" type="tns:ArrayOfListarPeriodos" />
+  <xs:complexType name="ListarPeriodos">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CODIGO" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DESCRI" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ListarPeriodos" nillable="true" type="tns:ListarPeriodos" />
+  <xs:complexType name="ArrayOfListarUnidadesGerencia">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ListarUnidadesGerencia" nillable="true" type="tns:ListarUnidadesGerencia" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfListarUnidadesGerencia" nillable="true" type="tns:ArrayOfListarUnidadesGerencia" />
+  <xs:complexType name="ListarUnidadesGerencia">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CENT_COSTO" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DESC_AREADET" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DESC_SIGLA" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ListarUnidadesGerencia" nillable="true" type="tns:ListarUnidadesGerencia" />
+  <xs:complexType name="ArrayOfListarZona">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ListarZona" nillable="true" type="tns:ListarZona" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfListarZona" nillable="true" type="tns:ArrayOfListarZona" />
+  <xs:complexType name="ListarZona">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="iIdZona" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="vColorZona" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="vCoordenadasZona" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="vDescripcionZona" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="vTituloZona" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ListarZona" nillable="true" type="tns:ListarZona" />
+  <xs:complexType name="ArrayOfListarPines">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ListarPines" nillable="true" type="tns:ListarPines" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfListarPines" nillable="true" type="tns:ArrayOfListarPines" />
+  <xs:complexType name="ListarPines">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="iIdPin" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="vDescripcion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="vLatitud" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="vLongitud" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="vRutaIcono" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="vTitulo" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ListarPines" nillable="true" type="tns:ListarPines" />
+  <xs:complexType name="ArrayOfListarClasificaciones">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ListarClasificaciones" nillable="true" type="tns:ListarClasificaciones" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfListarClasificaciones" nillable="true" type="tns:ArrayOfListarClasificaciones" />
+  <xs:complexType name="ListarClasificaciones">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="iIdClasificacion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="vClasificacion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="vIcono" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ListarClasificaciones" nillable="true" type="tns:ListarClasificaciones" />
+  <xs:complexType name="ArrayOfListarMacs">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ListarMacs" nillable="true" type="tns:ListarMacs" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfListarMacs" nillable="true" type="tns:ArrayOfListarMacs" />
+  <xs:complexType name="ListarMacs">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="iIdMac" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="vDescripcion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="vMac" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ListarMacs" nillable="true" type="tns:ListarMacs" />
+</xs:schema>

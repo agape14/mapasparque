@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
+             x:Class="PATPALMaps.MapsPage"
+             Title="MAPAS">
+    <StackLayout  Padding="10">
+            <maps:Map x:Name="MainMap"  
+                  IsShowingUser="true"
+                  MapType="Street" />
+
+            <!--<Button x:Name="btnVerUbicacion" 
+                Text="Ver ubicacion"
+                Clicked="btnVerUbicacion_Clicked"></Button>
+        <Label Text="Latitud:"
+               TextColor="Blue"
+               FontSize="12"></Label>
+        <Label x:Name="LatitudeLabel"
+               FontSize="12"></Label>
+
+        <Label Text="Longitud:"
+               TextColor="Red"
+               FontSize="12"></Label>
+        <Label x:Name="LongitudeLabel"
+               FontSize="12"></Label>-->
+        </StackLayout>
+    <ContentPage.ToolbarItems>
+    </ContentPage.ToolbarItems>
+</ContentPage>

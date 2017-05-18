@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Service1" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://192.168.2.90/WSERVICES/Service1.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://192.168.2.90/WSERVICES/Service1.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://192.168.2.90/WSERVICES/Service1.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/WSERVICE" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IService1_getValidarUsuario_InputMessage">
+    <wsdl:part name="parameters" element="tns:getValidarUsuario" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getValidarUsuario_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getValidarUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getListarDataPapeleta_InputMessage">
+    <wsdl:part name="parameters" element="tns:getListarDataPapeleta" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getListarDataPapeleta_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getListarDataPapeletaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_setCambiarEstadoPapeleta_InputMessage">
+    <wsdl:part name="parameters" element="tns:setCambiarEstadoPapeleta" />
+  </wsdl:message>
+  <wsdl:message name="IService1_setCambiarEstadoPapeleta_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setCambiarEstadoPapeletaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getListarBusquedaDocumentos_InputMessage">
+    <wsdl:part name="parameters" element="tns:getListarBusquedaDocumentos" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getListarBusquedaDocumentos_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getListarBusquedaDocumentosResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getListarCodigoRelacionado_InputMessage">
+    <wsdl:part name="parameters" element="tns:getListarCodigoRelacionado" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getListarCodigoRelacionado_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getListarCodigoRelacionadoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getListarAccionesDocumento_InputMessage">
+    <wsdl:part name="parameters" element="tns:getListarAccionesDocumento" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getListarAccionesDocumento_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getListarAccionesDocumentoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getListarHistoriaDocumento_InputMessage">
+    <wsdl:part name="parameters" element="tns:getListarHistoriaDocumento" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getListarHistoriaDocumento_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getListarHistoriaDocumentoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getListarPeriodos_InputMessage">
+    <wsdl:part name="parameters" element="tns:getListarPeriodos" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getListarPeriodos_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getListarPeriodosResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getListarUnidadesGerencia_InputMessage">
+    <wsdl:part name="parameters" element="tns:getListarUnidadesGerencia" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getListarUnidadesGerencia_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getListarUnidadesGerenciaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getListarZona_InputMessage">
+    <wsdl:part name="parameters" element="tns:getListarZona" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getListarZona_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getListarZonaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getListarPines_InputMessage">
+    <wsdl:part name="parameters" element="tns:getListarPines" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getListarPines_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getListarPinesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getListarClasificaciones_InputMessage">
+    <wsdl:part name="parameters" element="tns:getListarClasificaciones" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getListarClasificaciones_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getListarClasificacionesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getListarMacs_InputMessage">
+    <wsdl:part name="parameters" element="tns:getListarMacs" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getListarMacs_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getListarMacsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_setMantenimientoPines_InputMessage">
+    <wsdl:part name="parameters" element="tns:setMantenimientoPines" />
+  </wsdl:message>
+  <wsdl:message name="IService1_setMantenimientoPines_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setMantenimientoPinesResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IService1">
+    <wsdl:operation name="getValidarUsuario">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/getValidarUsuario" message="tns:IService1_getValidarUsuario_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/getValidarUsuarioResponse" message="tns:IService1_getValidarUsuario_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getListarDataPapeleta">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/getListarDataPapeleta" message="tns:IService1_getListarDataPapeleta_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/getListarDataPapeletaResponse" message="tns:IService1_getListarDataPapeleta_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setCambiarEstadoPapeleta">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/setCambiarEstadoPapeleta" message="tns:IService1_setCambiarEstadoPapeleta_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/setCambiarEstadoPapeletaResponse" message="tns:IService1_setCambiarEstadoPapeleta_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getListarBusquedaDocumentos">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/getListarBusquedaDocumentos" message="tns:IService1_getListarBusquedaDocumentos_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/getListarBusquedaDocumentosResponse" message="tns:IService1_getListarBusquedaDocumentos_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getListarCodigoRelacionado">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/getListarCodigoRelacionado" message="tns:IService1_getListarCodigoRelacionado_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/getListarCodigoRelacionadoResponse" message="tns:IService1_getListarCodigoRelacionado_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getListarAccionesDocumento">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/getListarAccionesDocumento" message="tns:IService1_getListarAccionesDocumento_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/getListarAccionesDocumentoResponse" message="tns:IService1_getListarAccionesDocumento_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getListarHistoriaDocumento">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/getListarHistoriaDocumento" message="tns:IService1_getListarHistoriaDocumento_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/getListarHistoriaDocumentoResponse" message="tns:IService1_getListarHistoriaDocumento_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getListarPeriodos">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/getListarPeriodos" message="tns:IService1_getListarPeriodos_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/getListarPeriodosResponse" message="tns:IService1_getListarPeriodos_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getListarUnidadesGerencia">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/getListarUnidadesGerencia" message="tns:IService1_getListarUnidadesGerencia_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/getListarUnidadesGerenciaResponse" message="tns:IService1_getListarUnidadesGerencia_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getListarZona">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/getListarZona" message="tns:IService1_getListarZona_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/getListarZonaResponse" message="tns:IService1_getListarZona_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getListarPines">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/getListarPines" message="tns:IService1_getListarPines_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/getListarPinesResponse" message="tns:IService1_getListarPines_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getListarClasificaciones">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/getListarClasificaciones" message="tns:IService1_getListarClasificaciones_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/getListarClasificacionesResponse" message="tns:IService1_getListarClasificaciones_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getListarMacs">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/getListarMacs" message="tns:IService1_getListarMacs_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/getListarMacsResponse" message="tns:IService1_getListarMacs_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setMantenimientoPines">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/setMantenimientoPines" message="tns:IService1_setMantenimientoPines_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/setMantenimientoPinesResponse" message="tns:IService1_setMantenimientoPines_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IService1" type="tns:IService1">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="getValidarUsuario">
+      <soap:operation soapAction="http://tempuri.org/IService1/getValidarUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getListarDataPapeleta">
+      <soap:operation soapAction="http://tempuri.org/IService1/getListarDataPapeleta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setCambiarEstadoPapeleta">
+      <soap:operation soapAction="http://tempuri.org/IService1/setCambiarEstadoPapeleta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getListarBusquedaDocumentos">
+      <soap:operation soapAction="http://tempuri.org/IService1/getListarBusquedaDocumentos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getListarCodigoRelacionado">
+      <soap:operation soapAction="http://tempuri.org/IService1/getListarCodigoRelacionado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getListarAccionesDocumento">
+      <soap:operation soapAction="http://tempuri.org/IService1/getListarAccionesDocumento" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getListarHistoriaDocumento">
+      <soap:operation soapAction="http://tempuri.org/IService1/getListarHistoriaDocumento" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getListarPeriodos">
+      <soap:operation soapAction="http://tempuri.org/IService1/getListarPeriodos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getListarUnidadesGerencia">
+      <soap:operation soapAction="http://tempuri.org/IService1/getListarUnidadesGerencia" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getListarZona">
+      <soap:operation soapAction="http://tempuri.org/IService1/getListarZona" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getListarPines">
+      <soap:operation soapAction="http://tempuri.org/IService1/getListarPines" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getListarClasificaciones">
+      <soap:operation soapAction="http://tempuri.org/IService1/getListarClasificaciones" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getListarMacs">
+      <soap:operation soapAction="http://tempuri.org/IService1/getListarMacs" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setMantenimientoPines">
+      <soap:operation soapAction="http://tempuri.org/IService1/setMantenimientoPines" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="BasicHttpBinding_IService1" binding="tns:BasicHttpBinding_IService1">
+      <soap:address location="http://192.168.2.90/WSERVICES/Service1.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

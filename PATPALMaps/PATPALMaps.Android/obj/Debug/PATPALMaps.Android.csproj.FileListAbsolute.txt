@@ -1,0 +1,461 @@
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.Android.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.Android.pdb
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.Android.apk
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.Android-Signed.apk
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\FormsViewGroup.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Core.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Maps.Android.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Maps.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Platform.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.pdb
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.dll.mdb
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\FormsViewGroup.pdb
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\FormsViewGroup.dll.mdb
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Core.pdb
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Core.xml
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Maps.xml
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\PATPALMaps.Android.csprojResolveAssemblyReference.cache
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\PATPALMaps.Android.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\PATPALMaps.Android.pdb
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\android\bin\PATPALMaps.Android.apk
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\res\drawable\icon.png
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\res\drawable-hdpi\icon.png
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\res\drawable-xhdpi\icon.png
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\res\layout\tabbar.xml
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\res\layout\toolbar.xml
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\res\values\styles.xml
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\R.cs.flag
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\uploadflags.txt
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.Android.dll.mdb
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\PATPALMaps.Android.dll.mdb
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\PATPALMaps.dll.mdb
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.CurrentActivity.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.dll
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.CurrentActivity.xml
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.pdb
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.xml
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.Abstractions.xml
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.pdb
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.xml
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+F:\Xamarin\PATPALMaps -11-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.Android.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.Android.pdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.Android.apk
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.Android-Signed.apk
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\FormsViewGroup.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.CurrentActivity.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Core.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Maps.Android.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Maps.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Platform.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\FormsViewGroup.pdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\FormsViewGroup.dll.mdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.CurrentActivity.xml
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.pdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.xml
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.dll.mdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.Abstractions.xml
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll.mdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.pdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.xml
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.dll.mdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Core.pdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Core.xml
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Maps.xml
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\PATPALMaps.Android.csprojResolveAssemblyReference.cache
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\PATPALMaps.Android.dll
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\PATPALMaps.Android.pdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\android\bin\PATPALMaps.Android.apk
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\res\drawable\icon.png
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\res\drawable-hdpi\icon.png
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\res\drawable-xhdpi\icon.png
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\res\layout\tabbar.xml
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\res\layout\toolbar.xml
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\res\values\styles.xml
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\R.cs.flag
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\uploadflags.txt
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.pdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.Android.dll.mdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\PATPALMaps.Android.dll.mdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Plugin.Geolocator.Abstractions.dll.mdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.dll.mdb
+F:\Xamarin\PATPALMaps -14-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\PATPALMaps.dll.mdb
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.Android.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.Android.pdb
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.Android.apk
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.Android-Signed.apk
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\FormsViewGroup.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.CurrentActivity.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Core.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Maps.Android.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Maps.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Platform.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\FormsViewGroup.pdb
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\FormsViewGroup.dll.mdb
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.CurrentActivity.xml
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.pdb
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.xml
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.dll.mdb
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.Abstractions.xml
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll.mdb
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.pdb
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.xml
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.dll.mdb
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Core.pdb
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Core.xml
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Maps.xml
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\PATPALMaps.Android.dll
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\PATPALMaps.Android.pdb
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\android\bin\PATPALMaps.Android.apk
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\res\drawable\icon.png
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\res\drawable-hdpi\icon.png
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\res\drawable-xhdpi\icon.png
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\res\layout\tabbar.xml
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\res\layout\toolbar.xml
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\res\values\styles.xml
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\R.cs.flag
+F:\Xamarin\PATPALMaps -17-05-2017\PATPALMaps\PATPALMaps.Android\obj\Debug\uploadflags.txt
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.Android.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.Android.pdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.Android.apk
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.Android-Signed.apk
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\FormsViewGroup.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.CurrentActivity.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Core.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Maps.Android.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Maps.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.pdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\FormsViewGroup.pdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\FormsViewGroup.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.CurrentActivity.xml
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.pdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.xml
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.Abstractions.xml
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.pdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.xml
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Core.xml
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Maps.xml
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\PATPALMaps.Android.csprojResolveAssemblyReference.cache
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\PATPALMaps.Android.dll
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\PATPALMaps.Android.pdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\android\bin\PATPALMaps.Android.apk
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\res\drawable\icon.png
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\res\drawable-hdpi\icon.png
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\res\drawable-xhdpi\icon.png
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\res\layout\tabbar.xml
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\res\layout\toolbar.xml
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\res\values\styles.xml
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\R.cs.flag
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\uploadflags.txt
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.Android.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\PATPALMaps.Android.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Plugin.Geolocator.Abstractions.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Java.Interop.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Mono.Android.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\mscorlib.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\System.ComponentModel.Composition.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\System.Core.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\System.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\System.IdentityModel.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\System.Net.Http.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\System.Runtime.Serialization.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\System.Runtime.Serialization.Primitives.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\System.ServiceModel.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\System.ServiceModel.Internals.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\System.Xml.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\System.Xml.Linq.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\PATPALMaps.dll.mdb
+D:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\PATPALMaps.Android.dll.mdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.Android.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.Android.pdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.Android.apk
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.Android-Signed.apk
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\FormsViewGroup.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.CurrentActivity.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Core.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Maps.Android.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Maps.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Platform.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.pdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\FormsViewGroup.pdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\FormsViewGroup.dll.mdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.CurrentActivity.xml
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.pdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.xml
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.dll.mdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.Abstractions.xml
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll.mdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.pdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.xml
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.dll.mdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Core.pdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Core.xml
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Maps.xml
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\PATPALMaps.Android.csprojResolveAssemblyReference.cache
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\PATPALMaps.Android.dll
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\PATPALMaps.Android.pdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\android\bin\PATPALMaps.Android.apk
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\res\drawable\icon.png
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\res\drawable-hdpi\icon.png
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\res\drawable-xhdpi\icon.png
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\res\layout\tabbar.xml
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\res\layout\toolbar.xml
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\res\values\styles.xml
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\R.cs.flag
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\uploadflags.txt
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.dll.mdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.Android.dll.mdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\PATPALMaps.Android.dll.mdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\PATPALMaps.dll.mdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Plugin.Geolocator.Abstractions.dll.mdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+F:\Xamarin\PATPALMaps\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.Android.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.Android.pdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.Android.apk
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.Android-Signed.apk
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\FormsViewGroup.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.CurrentActivity.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Core.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Maps.Android.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Maps.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Platform.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.pdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\FormsViewGroup.pdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\FormsViewGroup.dll.mdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.CurrentActivity.xml
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.pdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.xml
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.dll.mdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.Abstractions.xml
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll.mdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.pdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.xml
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.dll.mdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Core.pdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Core.xml
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Maps.xml
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\obj\Debug\PATPALMaps.Android.csprojResolveAssemblyReference.cache
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\obj\Debug\PATPALMaps.Android.dll
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\obj\Debug\PATPALMaps.Android.pdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\obj\Debug\android\bin\PATPALMaps.Android.apk
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\obj\Debug\res\drawable\icon.png
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\obj\Debug\res\drawable-hdpi\icon.png
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\obj\Debug\res\drawable-xhdpi\icon.png
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\obj\Debug\res\layout\tabbar.xml
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\obj\Debug\res\layout\toolbar.xml
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\obj\Debug\res\values\styles.xml
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\obj\Debug\R.cs.flag
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\obj\Debug\uploadflags.txt
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.dll.mdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\bin\Debug\PATPALMaps.Android.dll.mdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\PATPALMaps.Android.dll.mdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\PATPALMaps.dll.mdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Plugin.Geolocator.Abstractions.dll.mdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+F:\Xamarin\PATPALMaps-17-05-2017-3\PATPALMaps\PATPALMaps.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb

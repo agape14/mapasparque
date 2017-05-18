@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PATPALMaps.MenuPage"
+             Icon="ic_shortcut_menu.png"
+             Title="menu"
+             BackgroundColor="{StaticResource MenuColor}">
+        <StackLayout>
+            <Label></Label>
+            <Label></Label>
+            <Label x:Name="CODI_USER" TextColor="{StaticResource MenuFontColor}" FontSize="14" HorizontalOptions="End" Margin="10"></Label>
+            <ListView x:Name="lstView" BackgroundColor="{StaticResource MenuColor}"></ListView>
+    </StackLayout>
+</ContentPage>
